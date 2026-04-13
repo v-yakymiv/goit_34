@@ -8,7 +8,8 @@ import pyarrow
 import spark
 import boto3
 ## Кава з вафлями
-
+## Кава з двома вафлями
+## Кава
 
 #%%
 #df=pd.read_csv('/Users/denistkachenko/Documents/marketing_AB.csv')
@@ -94,3 +95,5 @@ plt.tight_layout()
 plt.show()
 
 
+##the end
+##три вафлі
